@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Nati y Yami
+Main-Class: Proyecto
+X-COMMENT: Primer Proyecto
